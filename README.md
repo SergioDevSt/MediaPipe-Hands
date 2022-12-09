@@ -31,6 +31,8 @@ Before running you need to modify the following varibles in the ""handTrackingIm
 
 
 > ⚠ DB_path
+
+
 To set your own file dir.
 
 Currently working on a better system.
