@@ -28,6 +28,8 @@ pip install -r requirements.txt
 
 Before running you need to modify the following varibles in the ""handTrackingImg.py""
 > ⚠ IMG_path
+
+
 > ⚠ DB_path
 To set your own file dir.
 
