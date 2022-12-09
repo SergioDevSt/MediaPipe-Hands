@@ -7,6 +7,7 @@
 
 This a python script to create a data set with mediapipe. 
 
+#
 ### Cloning the repository
 
 > ⚠ You need Python installed to follow tutorial
